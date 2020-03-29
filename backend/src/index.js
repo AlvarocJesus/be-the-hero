@@ -12,7 +12,7 @@ app.listen(3333);
 
 /**
  * Rota / Recursos
- https://github.com/AlvarocJesus/be-the-hero.git
+ 
 */
 
 /**
